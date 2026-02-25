@@ -388,14 +388,6 @@ cd email-writer-react
 vercel deploy
 ```
 
-### Chrome Extension Publishing
-
-1. Create developer account at [Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole)
-2. Pay one-time $5 fee
-3. Zip extension folder
-4. Upload and submit for review
-5. Review takes 1-3 days
-
 
 
 
